@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![trtophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/gith)
-div{
-    background: red;
-    }
+.sidebar-inner {
+  background: rgba(0, 153, 153, 0.1);
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  // padding: 20px 10px 0;
+  box-sizing: border-box;
+  color: $text-color;
+  width: $sidebar-desktop;
+
+  if (hexo-config('motion.enable') && hexo-config('motion.transition.sidebar')) {
+    opacity: 0;
+  }
