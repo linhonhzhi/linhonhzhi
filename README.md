@@ -20,11 +20,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![trtophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/gith)
-\themes\next\source\css\_schemes\Gemini\index.styl
-// Post & Comments blocks.
-.post-block {
-  background: rgba(0, 153, 153, 0.1);
-  border-radius: $border-radius-inner;
-  box-shadow: $box-shadow-inner;
-  padding: $content-desktop-padding;
-}
+<font color=#800000>酒紅色</font>
