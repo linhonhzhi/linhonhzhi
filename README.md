@@ -20,6 +20,20 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![trtophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/gith)
-ctx.globalAlpha= options.alpha; 
-ctx.fillStyle = options.color;
-ctx.font = options.font;
+# Code
+
+## Vanilla
+
+``python
+print("hello world!")
+``
+
+## Flavored V1
+
+<div style="background-color: rgb(50, 50, 50);">
+
+``python
+print("Yo!")
+``
+
+</div>
